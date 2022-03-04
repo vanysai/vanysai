@@ -1,12 +1,7 @@
 ### Hi, I'm Jaíza!
 
 <!--
-**vanysai/vanysai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying at school and learning programming codes.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 📫 How to reach me: email: jaizamsf@gmail.com
-- 😄 Pronouns: she/her
+Where you can find me:
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="jaíza-freire" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/ja%C3%ADza-freire?trk=profile-badge">Jaíza Freire</a></div>
+              
 -->
