@@ -1,4 +1,4 @@
-### Hi, I'm Jaíza! :coding:
+### Hi, I'm Jaíza! 👩‍💻
 
 <div align="center">
   <a href="https://github.com/vanysai">
