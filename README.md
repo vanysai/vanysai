@@ -6,6 +6,6 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanysai&show_icons=true&theme=dracula&include_all_commits=true&ccount_private=true"/>
 </div>
 
-<div align='center' ><br>
-  Languages i use <br><br>  
+<div align='center'><br>
+  Languages i use <br> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
