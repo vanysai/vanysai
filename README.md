@@ -1,5 +1,10 @@
 ### Hi, I'm Jaíza!
 
+<div align="center">
+  <a href="https://github.com/vanysai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanysai&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     </a>
+</div>
 
 Where you can find me:
 
