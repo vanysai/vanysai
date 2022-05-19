@@ -1,8 +1,8 @@
                                                      ### Currently learning! 👩‍💻
 <div align="center">
   <a href="https://github.com/vanysai">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vanysai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanysai&show_icons=true&theme=dracula&include_all_commits=true&ccount_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vanysai&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanysai&show_icons=true&theme=midnight-purple&include_all_commits=true&ccount_private=true"/>
 </div>
 
 <div align='center'> <br>
