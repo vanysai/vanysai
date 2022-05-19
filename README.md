@@ -13,4 +13,5 @@
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  
+![Snake animation](https://github.com/vanysai/vanysai/blob/output/github-contribution-grid-snake.svg)
 
