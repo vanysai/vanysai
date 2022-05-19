@@ -1,6 +1,5 @@
 ### Hi, I'm Jaíza! 👩‍💻
 - I'm 16 years old
-- I'm 
 <div align="center">
   <a href="https://github.com/vanysai">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vanysai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
