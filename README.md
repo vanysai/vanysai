@@ -13,7 +13,7 @@
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/linux-original.svg" />
+ <img align="center" height="50" width="40" src="https://[cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/linux-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fu%2Fubuntu-logo%2F&psig=AOvVaw0594RgF9Ujs4eA5EUjRS8t&ust=1670720311350000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCfkKjs7fsCFQAAAAAdAAAAABAE)" />
 
  
  
