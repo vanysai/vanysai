@@ -13,7 +13,7 @@
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img align="center" height="50" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fubuntu&psig=AOvVaw2qHx2R9syaGdWEESOPMYDy&ust=1670720405668000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDsltXs7fsCFQAAAAAdAAAAABAE" />
+ <img align="center" height="50" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" />
 
  
  
