@@ -2,8 +2,8 @@
                                                             ## Hi there! 
 <div align="center">
   <a href="https://github.com/vanysai">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanysai&show_icons=true&theme=monokai"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanysai&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanysai&show_icons=true&theme=omni"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanysai&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 <div align='center'> <br>
