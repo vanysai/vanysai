@@ -15,6 +15,9 @@
 <!--  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> -->
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" />
+ <script src="https://tryhackme.com/badge/1818025"></script>
+
+
 
  
  
@@ -22,8 +25,6 @@
   <div>
 <a href = "mailto:jaizamsf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jaiza-freire-vn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>   
-<script src="https://tryhackme.com/badge/1818025"></script>
-
 
 </div>
   
