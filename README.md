@@ -22,6 +22,9 @@
   <div>
 <a href = "mailto:jaizamsf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jaiza-freire-vn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>   
+<script src="https://tryhackme.com/badge/1818025"></script>
+
+
 </div>
   
 ![Snake animation](https://github.com/vanysai/vanysai/blob/output/github-contribution-grid-snake.svg)
