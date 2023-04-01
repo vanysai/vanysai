@@ -6,9 +6,9 @@
   <a href="https://github.com/vanysai">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanysai&show_icons=true&theme=omni"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanysai&layout=compact&langs_count=7&theme=omni"/>
-<!-- </div>
-   -->
-  ## My Skills
+ </div>
+  
+                                                       ## My Skills
 
   <br>
 <div align='center'> <br>
