@@ -1,4 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=faa1cf&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monocraft&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+GitHub+profile!;I%27m+a+student+developer+;I%27m+interested+in+Hacking+Backend;Cybersecurity%2C+Linux%2C+WebDev%2C+CTF%2C+++)](https://git.io/typing-svg)
+
 
 
 <div align="center">
