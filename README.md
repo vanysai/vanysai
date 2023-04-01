@@ -30,8 +30,8 @@
  
 ## Contact me:
 <div>
-<a href = "mailto:jaizamsf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jaiza-freire-vn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>   
+<a href = "mailto:jaizamsf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jaiza-freire/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
  <img align="left" height="230em" src="http://www.ibiblio.org/pub/linux/docs/LuCaS/Presentaciones/200102linuxcol/filosofia/filosofia/images/tuxcola.gif">
 
