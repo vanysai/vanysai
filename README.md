@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=faa1cf&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monocraft&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+GitHub+profile!;I%27m+a+student+developer+;I%27m+interested+in+Hacking+Backend;Cybersecurity%2C+Linux%2C+WebDev%2C+CTF%2C+Ubuntu+And+More)](https://git.io/typing-svg)
 
 
 
@@ -19,7 +18,9 @@
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" />
 <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/vanysai.png" alt="TryHackMe">
+
+  
+<img src="https://tryhackme-badges.s3.amazonaws.com/vanysai.png" alt="TryHackMe">
 
 
 
@@ -28,11 +29,11 @@
  
  
 ## Contact me:
-  <div>
+<div>
 <a href = "mailto:jaizamsf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jaiza-freire-vn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>   
     
-  <img align="left" height="230em" src="http://www.ibiblio.org/pub/linux/docs/LuCaS/Presentaciones/200102linuxcol/filosofia/filosofia/images/tuxcola.gif">
+ <img align="left" height="230em" src="http://www.ibiblio.org/pub/linux/docs/LuCaS/Presentaciones/200102linuxcol/filosofia/filosofia/images/tuxcola.gif">
 
 
 </div>
