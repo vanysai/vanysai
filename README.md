@@ -33,7 +33,7 @@
 <a href = "mailto:jaizamsf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jaiza-freire-vn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
- <img align="left" height="280em" src="[https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif](https://tenor.com/xoAc.gif)">
+ <img align="left" height="280em" src="[[https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif](https://tenor.com/xoAc.gif)](https://media.tenor.com/r2_RSuOMIwIAAAAC/whisper-of-the-heart-cartoon.gif)">
 
 
 </div>
