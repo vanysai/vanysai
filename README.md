@@ -21,7 +21,6 @@
 <br>
 
  <br>
-  ![https://tryhackme.com/p/vanysai](https://tryhackme-badges.s3.amazonaws.com/vanysai.png)
 
 
 
