@@ -27,5 +27,4 @@
   <img align="right" height="300em" src="https://media.tenor.com/r2_RSuOMIwIAAAAC/whisper-of-the-heart-cartoon.gif">
 </div>
   
-![tryhackme stats](https://raw.githubusercontent.com/<vanysai>/<vanysai>/main/assets/thm_propic.png)
 ![Snake animation](https://github.com/vanysai/vanysai/blob/output/github-contribution-grid-snake.svg)
