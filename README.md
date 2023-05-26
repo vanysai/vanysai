@@ -19,9 +19,7 @@
  
   
  ## Contact me:
-  
-  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/vanysai.png" alt="TryHackMe">
-  
+    
   
 <div>
   <a href = "mailto:jaizamsf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,4 +27,5 @@
   <img align="right" height="300em" src="https://media.tenor.com/r2_RSuOMIwIAAAAC/whisper-of-the-heart-cartoon.gif">
 </div>
   
+![tryhackme stats](https://raw.githubusercontent.com/<vanysai>/<vanysai>/main/assets/thm_propic.png)
 ![Snake animation](https://github.com/vanysai/vanysai/blob/output/github-contribution-grid-snake.svg)
