@@ -3,10 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monocraft&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+GitHub+profile!;I'm+vanysai%2C+and+I'm+interested+in:;Cybersecurity%2C+Linux%2C+and+Hacking)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/vanysai">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanysai&show_icons=true&theme=omni"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanysai&layout=compact&langs_count=7&theme=omni"/>
-</div> <br>
+ <div>
+<a href="https://github.com/anabmartins">
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanysai&layout=compact&langs_count=7&theme=cyberpink"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanysai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanysais&theme=dark"/>
+ <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanysai&theme=dark&exclude=HTML,CSS,Portugol"/>
+ </div>
+
   
 <div align='center'> <br>
  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
