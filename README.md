@@ -5,7 +5,6 @@
 <div align="center">
  <div>
 <a href="https://github.com/anabmartins"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanysai&layout=compact&langs_count=7&theme=cyberpink"/>
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanysais&theme=dark"/>
  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanysai&theme=dark&exclude=HTML,CSS,Portugol"/>
  </div>
