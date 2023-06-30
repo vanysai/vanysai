@@ -31,7 +31,12 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=928ec6&size=15&center=true&vCenter=true&width=1000&lines=✮+TryHackMe+✮;✮+TryHackMe+✮)](https://git.io/typing-svg)
 
+<br> 
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/vanysai.png" alt="TryHackMe">
-  
+<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/EnLO7k41j1qhchQcHG/giphy.gif" alt="animated"/>
+</p>
   
 ![Snake animation](https://github.com/vanysai/vanysai/blob/output/github-contribution-grid-snake.svg)
