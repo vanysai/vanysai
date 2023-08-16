@@ -38,5 +38,6 @@
 <p align="center">
 <!--   <img src="" alt="animated"/> -->
 </p>
-  
+
+ <!--
 ![Snake animation](https://github.com/vanysai/vanysai/blob/output/github-contribution-grid-snake.svg)
