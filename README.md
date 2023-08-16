@@ -36,7 +36,7 @@
 <img src="https://github.com/vanysai/vanysai/assets/99412036/8165c56d-f946-4d17-9041-3ec8541f07c3" alt="TryHackMe">
 <br>
 <p align="center">
-  <img src="" alt="animated"/>
+<!--   <img src="" alt="animated"/> -->
 </p>
   
 ![Snake animation](https://github.com/vanysai/vanysai/blob/output/github-contribution-grid-snake.svg)
