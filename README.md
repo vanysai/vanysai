@@ -41,8 +41,7 @@
 
 <br>
 <div>
-<img align=middle src='https://25.media.tumblr.com/24e135be5e7a2be8788e0297310b8b64/tumblr_mn0v4gVnDs1r9w3pqo1_500.gif' width=400 height=300> 
-<img align="middle" src="https://gifdb.com/images/high/rei-ayanami-fighting-scene-zm4su8pqff6a0yic.webp" width=400 height=300>
+<img align=middle src='https://media4.giphy.com/media/euMGM3uD3NHva/giphy.gif?cid=ecf05e47nqo3ta7zs3szo69hq12w9v9fc098y59xmozjf2wo&ep=v1_gifs_search&rid=giphy.gif&ct=g' width=400 height=300> 
 </div>
 
  <!--
