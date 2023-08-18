@@ -39,5 +39,11 @@
 <!--   <img src="" alt="animated"/> -->
 </p>
 
+<br>
+<div>
+<img align=middle src='https://25.media.tumblr.com/24e135be5e7a2be8788e0297310b8b64/tumblr_mn0v4gVnDs1r9w3pqo1_500.gif' width=400 height=300> 
+<img align="middle" src="https://gifdb.com/images/high/rei-ayanami-fighting-scene-zm4su8pqff6a0yic.webp" width=400 height=300>
+</div>
+
  <!--
 ![Snake animation](https://github.com/vanysai/vanysai/blob/output/github-contribution-grid-snake.svg)
