@@ -31,12 +31,17 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=928ec6&size=15&center=true&vCenter=true&width=1000&lines=✮+TryHackMe+✮;✮+TryHackMe+✮)](https://git.io/typing-svg)
 
+
+<!--
 <br> 
 
 <img src="https://github.com/vanysai/vanysai/assets/99412036/8165c56d-f946-4d17-9041-3ec8541f07c3" alt="TryHackMe">
 <br>
 <p align="center">
-<!--   <img src="" alt="animated"/> -->
+<img src="" alt="animated"/> 
+--!>
+
+
 </p>
 
 <br>
