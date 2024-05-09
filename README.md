@@ -11,7 +11,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=928ec6&size=15&center=true&vCenter=true&width=1000&lines=Front-End+Skills:)](https://git.io/typing-svg)
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=928ec6&size=15&center=true&vCenter=true&width=1000&lines=Front-End+Skills:)](https://git.io/typing-svg)
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
