@@ -1,53 +1,64 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=faa1cf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monocraft&color=fff&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+GitHub+profile!;I'm+vanysai%2C+and+I'm+interested+in:;Cybersecurity%2C+Linux%2C+and+Hacking)](https://git.io/typing-svg)
-
 <div align="center">
- <div>
-<a href="https://github.com/vanysai"> 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanysai&theme=gotham"/>
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanysai&theme=gotham&exclude=HTML,CSS,Portugol"/>
- </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff9f&height=120&section=header&text=SYSTEM%20ACCESS&fontSize=40&fontAlignY=45"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monocraft&color=00ff9f&size=24&center=true&vCenter=true&width=1000&lines=%5B%E2%9C%96%5D+INITIALIZING_SESSION...;%5B%E2%9C%94%5D+USER%3A+vanysai;%5B%E2%96%B6%5D+INTERESTS%3A+Cybersecurity%2C+Linux+%26+Development)](https://git.io/typing-svg)
+
+<div style="display: inline-block;">
+  <a href="https://github.com/vanysai"> 
+    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanysai&theme=gotham" />
+    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanysai&theme=gotham&exclude=HTML,CSS,Portugol" />
+  </a>
+</div>
+
+<br><br>
+
+<table align="center" style="border: 1px solid #1f2937; border-collapse: collapse; width: 100%; max-width: 800px;">
+  <tr>
+    <td style="background-color: #0d1117; padding: 15px; font-family: monospace; text-align: left;">
+      <span style="color: #00ff9f;">⚡ root@vanysai:~#</span> cat agent_profile.json <br><br>
+      <span style="color: #888;">{</span><br>
+      &nbsp;&nbsp;<span style="color: #ff79c6;">"alias"</span>: <span style="color: #f1fa8c;">"vanysai"</span>,<br>
+      &nbsp;&nbsp;<span style="color: #ff79c6;">"focus"</span>: <span style="color: #f1fa8c;">["Securing Systems", "Building Interfaces", "Automation"]</span>,<br>
+      &nbsp;&nbsp;<span style="color: #ff79c6;">"OS_environment"</span>: <span style="color: #f1fa8c;">"Linux / Kernel enthusiast"</span>,<br>
+      &nbsp;&nbsp;<span style="color: #ff79c6;">"status"</span>: <span style="color: #f1fa8c;">"Constantly learning and breaking barriers"</span><br>
+      <span style="color: #888;">}</span>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=928ec6&size=15&center=true&vCenter=true&width=1000&lines=Front-End+Skills:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff9f&size=16&center=true&vCenter=true&width=1000&lines=%3E_++FRONT%E2%80%91END+MODULES)](https://git.io/typing-svg)
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=928ec6&size=15&center=true&vCenter=true&width=1000&lines=Back-End+Skills:)](https://git.io/typing-svg) 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" ttitle="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-
-<br>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=928ec6&size=15&center=true&vCenter=true&width=1000&lines=✮+TryHackMe+✮;✮+TryHackMe+✮)](https://git.io/typing-svg)
-
-
-<!--
-<br> 
-
-<img src="https://github.com/vanysai/vanysai/assets/99412036/8165c56d-f946-4d17-9041-3ec8541f07c3" alt="TryHackMe">
-<br>
 <p align="center">
-<img src="" alt="animated"/> 
---!>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>
+</p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff9f&size=16&center=true&vCenter=true&width=1000&lines=%3E_++BACK%E2%80%91END+%26+INFRASTRUCTURE)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>
 </p>
 
 <br>
-<div>
-<img align=middle src='https://media4.giphy.com/media/euMGM3uD3NHva/giphy.gif?cid=ecf05e47nqo3ta7zs3szo69hq12w9v9fc098y59xmozjf2wo&ep=v1_gifs_search&rid=giphy.gif&ct=g' width=400 height=300> 
-</div>
 
- <!--
-![Snake animation](https://github.com/vanysai/vanysai/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3e3e&size=16&center=true&vCenter=true&width=1000&lines=%E2%96%B2++SECURITY+LABS%3A+TRYHACKME)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://tryhackme.com/p/vanysai" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+</p>
+<br>
+<div>
+  <img src="https://media4.giphy.com/media/euMGM3uD3NHva/giphy.gif?cid=ecf05e47nqo3ta7zs3szo69hq12w9v9fc098y59xmozjf2wo&ep=v1_gifs
